@@ -1,0 +1,99 @@
+[
+    {
+     "id": 1,
+     "name": "Ahri",
+     "from": "League of Legends",
+     "price": 1000,
+     "img": "https://resize.cdn.otakumode.com/ex/1000.1499/shop/product/8c8fe54810f04b5c9130ed57f726e4f3.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 2,
+     "name": "Ganyu",
+     "from": "Genshin Impact",
+     "price": 1000,
+     "img": "https://favorgk.com/wp-content/uploads/2023/09/201-3.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 3,
+     "name": "2B",
+     "from": "Nier Automata",
+     "price": 1000,
+     "img": "https://chroniclesinc.sg/cdn/shop/files/yorha2_800x800_668101e9-e374-44a2-939a-237caa6099c7_1200x1200.png?v=1690260303",
+     "quanty": 1
+    },
+    {
+     "id": 4,
+     "name": "Corrin",
+     "from": "FE Fate",
+     "price": 1000,
+     "img": "https://images.goodsmile.info/cgm/images/product/20230519/14391/115513/large/5bd3e259f9332e852d8aa570169d1e44.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 5,
+     "name": "DVA",
+     "from": "Overwatch",
+     "price": 1000,
+     "img": "https://m.media-amazon.com/images/I/71h9rQGQPKL.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 6,
+     "name": "Sirius",
+     "from": "Azur Lane",
+     "price": 1000,
+     "img": "https://m.media-amazon.com/images/I/618qS6p46ES.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 7,
+     "name": "Karin",
+     "from": "Blue Archive",
+     "price": 1000,
+     "img": "https://m.media-amazon.com/images/I/61cnRglmeeL._AC_UF894,1000_QL80_.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 8,
+     "name": "Raphtalia",
+     "from": "Tatte no Yusha",
+     "price": 1000,
+     "img": "https://www.distritomax.com/cdn/shop/products/00_60b1adc2-df97-4f45-b772-87b83e491ffe_606x1000.jpg?v=1651160674",
+     "quanty": 1
+    },
+    {
+     "id": 9,
+     "name": "Yae Miko",
+     "from": "Genshin Impact",
+     "price": 1000,
+     "img": "https://i.ebayimg.com/images/g/1NoAAOSwTPVivrgv/s-l400.png",
+     "quanty": 1
+    },
+    {
+     "id": 10,
+     "name": "Lucy",
+     "from": "Cyberpunk",
+     "price": 1000,
+     "img": "https://img.orzgk.com/wp-content/uploads/2023/12/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231227102309-scaled-e1703646877384.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 11,
+     "name": "Touka",
+     "from": "Tokyo Ghoul",
+     "price": 1000,
+     "img": "https://m.media-amazon.com/images/I/61CO9M1nN6S._AC_UF894,1000_QL80_.jpg",
+     "quanty": 1
+    },
+    {
+     "id": 12,
+     "name": "Jeanne d'arc",
+     "from": "Fate",
+     "price": 1000,
+     "img": "https://ae01.alicdn.com/kf/H2b84d38ef12248ab95ead412311861d1w/Glazovin-figura-de-acci-n-Original-MF-Fate-Grand-Order-de-26cm-Jeanne-D-Arc-Alter.jpg",
+     "quanty": 1
+    }
+   ]
+   
